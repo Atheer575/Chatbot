@@ -62,14 +62,14 @@ This part of the code handles recording, converting the speech to English, sendi
 Below are two examples showing how the chatbot responded:
 
 ### Example 1:
-![Alt text](prompt#1.png)
-I said: "Hello, my name is Atheer"
-Bot replied: "Nice to meet you Atheer. How can I assist you today?"
+![Alt text](prompt1.png)
+1. I said: "Hello, my name is Atheer"
+2. Bot replied: "Nice to meet you Atheer. How can I assist you today?"
 
 ### Example 2:
-![Alt text](prompt#2.png)
-I said: "Talk to me more about the AI model that you have"
-Bot replied: "Sure! I am powered by Cohere, which is an advanced language model trained to understand and generate human-like text."
+![Alt text](prompt2.png)
+1. I said: "Talk to me more about the AI model that you have"
+2. Bot replied: "Sure! I am powered by Cohere, which is an advanced language model trained to understand and generate human-like text."
 
 ---
 
